@@ -25,8 +25,14 @@ Features
 
 
 
- How to Run
+ How to Run:
 
 chmod +x test.sh
 
 ./test.sh
+
+
+- Default Teacher Login
+  - Username: teacher1
+
+  - Password: 123
